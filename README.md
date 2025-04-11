@@ -11,3 +11,4 @@ Un autre porblème lié à la mise en page du modèle, est le fait que je ne peu
 Après plusieurs essaie de ma part pour le tableau, j'ai essayer de copier-coller mon code dans un nouveau repository que j'ai créer moi même. Et j'ai le tableau c'est enfin afficher. Toute la mise en page du modèle a disparu, ainsi que les couleurs mais je peux maintenant ajouté des tableaux.
 A la suite de ça, j'ai ajouté un peu de couleur grâce  la commander pour surligner en HTML et changer la couleur du surlignage automatique jaune en vert grâce au CSS et'ai souligné en HTML les titres.
 ---
+Comme j'ai changer de dossier j'ai du copier coller le début de mon readme puis rajouter l'image dans ce repository. J'ai éditer mon 'About', ajouter une description et ajouter mon lien github vers mon projet.
