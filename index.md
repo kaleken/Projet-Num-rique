@@ -53,7 +53,7 @@ _Equipier polyvalent_
 
 ## <u> Compétences </u>
 
-| Langue   | Niveau |
+|<span style="background-color: lightgreen;">Langue</span> | <span style="background-color: lightgreen;">Niveau</span> |
 | -------- | ------ |
 | Français |   C2   |
 | Anglais  |   C1   |
