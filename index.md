@@ -1,3 +1,8 @@
+ <style>
+    h2 {
+      color: green;
+    }
+  </style>
 # Léa Damagnez
 
 ![Image CV](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlYZ9_mFESYzHy-IsqwadJj9VbRPhC-0hyqg&s)
